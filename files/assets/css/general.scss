@@ -1,0 +1,26 @@
+@import "variables";
+
+
+/*
+@font-face {
+  font-family: "Noto Serif";
+  src: url("/files/assets/fonts/NotoSerif-Regular.ttf") format('truetype');
+  font-weight: normal;
+}
+*/
+
+body {
+  font-family: 'Noto Serif', serif;
+  line-height: 1.6em;
+  overflow-x: hidden;
+
+  h2 {
+    font-size: 20px;
+  }
+}
+
+ul li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
